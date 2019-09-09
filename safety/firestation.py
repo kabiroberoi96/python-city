@@ -17,4 +17,4 @@ def draw_firestation(no_building):
 
     return
 
-draw_firestation(2)
+
